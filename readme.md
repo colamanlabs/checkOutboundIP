@@ -2,7 +2,7 @@
 
 
 <br/><br/>
-<img src="https://github.com/colamanlabs/checkOutboundIP/blob/main/home_server_network_20211024.drawio.png?raw=true" />
+<img src="https://github.com/colamanlabs/checkOutboundIP/blob/main/docs/res/home_server_network_20211024.drawio.png?raw=true" />
 
 <br/><br/><br/>
 ## 1. 목표
@@ -88,7 +88,7 @@ colaman@default3:~$
 
 <br/><br/><br/>
 ## 5. 실행결과
-<img src="https://github.com/colamanlabs/checkOutboundIP/blob/main/2021-10-24_14-31-23.png?raw=true" />
+<img src="https://github.com/colamanlabs/checkOutboundIP/blob/main/docs/res/2021-10-24_14-31-23.png?raw=true" />
 
 <br/><br/>
 \-\- 끝 -- 
